@@ -4,6 +4,7 @@ using SecurityLibrary;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
+using SecurityLibrary.MainAlgorithms;
 
 namespace SecurityPackageTest
 {

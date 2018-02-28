@@ -5,3 +5,11 @@ C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\Secu
 C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
 C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
 C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+F:\College Year 4\Second Term\Security\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
+F:\College Year 4\Second Term\Security\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+F:\College Year 4\Second Term\Security\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+F:\College Year 4\Second Term\Security\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+F:\College Year 4\Second Term\Security\StartupCode\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+F:\College Year 4\Second Term\Security\StartupCode\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+F:\College Year 4\Second Term\Security\StartupCode\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+F:\College Year 4\Second Term\Security\StartupCode\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb

@@ -3,3 +3,9 @@ C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\Secu
 C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
 C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
 C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+F:\College Year 4\Second Term\Security\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+F:\College Year 4\Second Term\Security\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+F:\College Year 4\Second Term\Security\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+F:\College Year 4\Second Term\Security\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+F:\College Year 4\Second Term\Security\StartupCode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+F:\College Year 4\Second Term\Security\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
