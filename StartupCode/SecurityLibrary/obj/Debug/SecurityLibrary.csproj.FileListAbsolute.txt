@@ -8,3 +8,4 @@ F:\College Year 4\Second Term\Security\StartupCode\SecurityLibrary\bin\Debug\Sec
 F:\College Year 4\Second Term\Security\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
 F:\College Year 4\Second Term\Security\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
 F:\College Year 4\Second Term\Security\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+F:\College Year 4\Second Term\Security\StartupCode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
